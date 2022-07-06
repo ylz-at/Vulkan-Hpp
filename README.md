@@ -1,5 +1,5 @@
 
-# Vulkan-Hpp: C++ Bindings for Vulkan
+# Just for running actions
 
 The goal of the Vulkan-Hpp is to provide header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
